@@ -24,12 +24,12 @@ you can see implementation of the recommendadtion bot backend [here ](https://gi
 
 ## Run this project
 
-- to run this project first setup [ultimateCCv2](https://github.com/Korat-Dishant/ultimateCCv2) and later ....
+- to run this project first setup [ultimateCCv2](https://github.com/harsh201045/Recommendation-Bot-Backend) and later ....
 
 Clone the project
 
 ```bash
-  git clone Korat-Dishant/Recommendation-Bot
+  git clone harsh201045/Recommendation-Bot
 ```
 
 Go to the project directory
