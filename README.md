@@ -29,13 +29,13 @@ you can see implementation of the recommendadtion bot backend [here ](https://gi
 Clone the project
 
 ```bash
-  git clone harsh201045/Recommendation-Bot
+  git clone harsh201045/Recommendation-Bot-frontend
 ```
 
 Go to the project directory
 
 ```bash
-  cd Recommendation-Bot
+  cd Recommendation-Bot-frontend
 ```
 
 Install dependencies
