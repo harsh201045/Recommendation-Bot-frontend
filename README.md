@@ -4,7 +4,7 @@
 This repoository is part of the whole Recommendation Bot project. This repository containes front-end part of the RAG chatbot which can provide recommendation based on user queries and chat responses. It generates tag specific to user requirements and map those Tags to provided keys, which are later used to recommend products.
 This recommendation bot also privide links to buy suggested products in the suggestion-chip below chatbot reply.
 
-you can see implementation of the recommendadtion bot backend [here ](https://github.com/Korat-Dishant/ultimateCCv2)
+you can see implementation of the recommendadtion bot backend [here ](https://github.com/harsh201045/Recommendation-Bot-Backend)
 
 ![ultimateCCv2](https://github.com/user-attachments/assets/7ad88164-04d1-4621-bb57-882a365efdf8)
 
@@ -61,9 +61,4 @@ Start the development server
   npm run start
 ```
 
-## Credits
-My team BrainX had created this project for the rapidops track in HackNUThon 5.0 organized by Nirma university.
- - Frontend ->
-    [Bhagirath Patel](https://github.com/bhagirath-bhp)
- - Backedn & API -> [Korat Dishant](https://github.com/Korat-Dishant)
- - Data collection and preprocessing -> [Purav Rokad](https://github.com/PuravRokad) &  [Harsh Pabani](https://github.com/harsh201045)
+
